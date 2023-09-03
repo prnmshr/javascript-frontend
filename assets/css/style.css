@@ -1,0 +1,82 @@
+button {
+    width: 150px;
+}
+
+.button {
+    margin: 5px;
+    height: auto;
+    padding: 3px;
+}
+
+.contents {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 15px;
+}
+
+#generateButton {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    ;
+}
+
+.contents {
+    border: 2px solid black;
+    padding: 15px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+
+    transform: translate(-50%, -50%);
+}
+
+
+.form-element {
+    margin: 8px;
+    text-align: left;
+}
+
+.contents {
+    padding: 8px;
+    border: 2px solid black;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+.form-element {
+    margin: 8px;
+    text-align: left;
+}
+
+#notifikasiSisaKarakter {
+    visibility: hidden;
+}
+
+.contents {
+    padding: 8px;
+    border: 2px solid black;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+.form-element {
+    margin: 8px;
+    text-align: left;
+}
+
+#notifikasiSisaKarakter {
+    visibility: hidden;
+}
